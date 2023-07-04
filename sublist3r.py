@@ -2,6 +2,7 @@
 # coding: utf-8
 # Sublist3r v1.0
 # By Ahmed Aboul-Ela - twitter.com/aboul3la
+#Md Nazmul Islam
 
 # modules in standard library
 import re
@@ -17,9 +18,6 @@ import threading
 import socket
 import json
 from collections import Counter
-
-
-Hi!
 
 # external modules
 from subbrute import subbrute
