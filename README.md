@@ -11,8 +11,8 @@ Sublist3r is a python tool designed to enumerate subdomains of websites using OS
 
 ## Installation
 
-```
-git clone https://github.com/aboul3la/Sublist3r.git
+```sql
+git clone https://github.com/nazmul-ethi/Sublist3r.git
 ```
 
 ## Recommended Python Version:
